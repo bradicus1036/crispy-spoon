@@ -1,0 +1,20 @@
+[
+	{
+		"text": "SEGMENT",
+		"snippet": "SEGMENT(${1:character_expression},${2:start_pos},${3:end_pos})$0",
+		"displayText": "SEGMENT",
+		"type": "function",
+		"leftLabelHTML": "<h6 class='rg-snip-type'>CHARACTER</h6>",
+		"rightLabelHTML": "<div><span class='rg-snip-func'>SEGMENT</span>(<span class='rg-snip-args'>character expression, start pos, end pos</span>)</div><h6><span class='rg-snip-token'>character expression: </span><span class='rg-snip-value'>CHARACTER</span></h6><h6><span class='rg-snip-token'>start position: </span><span class='rg-snip-value'>NUMBER</span></h6><h6><span class='rg-snip-token'>end position: </span><span class='rg-snip-value'>NUMBER</h6>",
+		"iconHTML": "<i class='icon-code'></i>"
+	},
+	{
+		"text": "SEGMENT1",
+		"snippet": "SEGMENT(${1:character_expression},${2:start_pos},${3:end_pos})$0",
+		"displayText": "SEGMENT",
+		"type": "function",
+		"leftLabelHTML": "<h6 class='rg-snip-type'>CHARACTER</h6>",
+		"rightLabelHTML": "<div><span class='rg-snip-func'>SEGMENT</span>(<span class='rg-snip-args'>character expression, start pos, end pos</span>)</div><h6><span class='rg-snip-token'>character expression: </span><span class='rg-snip-value'>CHARACTER</span></h6><h6><span class='rg-snip-token'>start position: </span><span class='rg-snip-value'>NUMBER</span></h6><h6><span class='rg-snip-token'>end position: </span><span class='rg-snip-value'>NUMBER</h6>",
+		"iconHTML": ""
+	}
+]

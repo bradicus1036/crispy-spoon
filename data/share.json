@@ -1,0 +1,11 @@
+[
+	{
+		"text": "SHARE:ID",
+		"snippet": "SHARE:ID$0",
+		"displayText": "SHARE:ID",
+		"type": "property",
+		"leftLabelHTML": "<h6 class='rg-snip-type'>CHARACTER</h6>",
+		"rightLabelHTML": "<div><span class='rg-snip-info'>4 Characters</span></div>",
+		"iconHTML": "<i class='icon-code'></i>"
+	}
+]

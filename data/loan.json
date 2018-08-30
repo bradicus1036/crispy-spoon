@@ -1,0 +1,38 @@
+[
+	{
+		"text": "LOAN:BALANCE",
+		"snippet": "LOAN:BALANCE$0",
+		"displayText": "LOAN:BALANCE",
+		"type": "property",
+		"leftLabelHTML": "<h6 class='rg-snip-type'>MONEY</h6>",
+		"rightLabelHTML": "<div><span class='rg-snip-info'></span></div>",
+		"iconHTML": "<i class='icon-code'></i>"
+	},
+	{
+		"text": "LOAN:OPENDATE",
+		"snippet": "LOAN:OPENDATE$0",
+		"displayText": "LOAN:OPENDATE",
+		"type": "property",
+		"leftLabelHTML": "<h6 class='rg-snip-type'>DATE</h6>",
+		"rightLabelHTML": "<div><span class='rg-snip-info'></span></div>",
+		"iconHTML": "<i class='icon-code'></i>"
+	},
+	{
+		"text": "LOAN:TYPE",
+		"snippet": "LOAN:TYPE$0",
+		"displayText": "LOAN:TYPE",
+		"type": "property",
+		"leftLabelHTML": "<h6 class='rg-snip-type'>CODE</h6>",
+		"rightLabelHTML": "<div><span class='rg-snip-info'>Code to 9999</span></div>",
+		"iconHTML": "<i class='icon-code'></i>"
+	},
+	{
+		"text": "LOAN:ID",
+		"snippet": "LOAN:ID$0",
+		"displayText": "LOAN:ID",
+		"type": "property",
+		"leftLabelHTML": "<h6 class='rg-snip-type'>CHARACTER</h6>",
+		"rightLabelHTML": "<div><span class='rg-snip-info'>4 Characters</span></div>",
+		"iconHTML": "<i class='icon-code'></i>"
+	}
+]
